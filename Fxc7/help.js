@@ -52,6 +52,7 @@ const menu = (name) => {
 	return `╭──────「 *_ɪᴋʟᴀɴ_* 」
 ┴
 │your text
+┬
 ╰──────「 *_ᴅɴsʙᴏᴛ_* 」
 `
 }
